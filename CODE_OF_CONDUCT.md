@@ -1,4 +1,4 @@
-# Welcome ! Here Is Contributor Covenant Code of Conduct
+# Welcome ! Here Is Some Contributor Covenant Code of Conduct
 
 ## Our Pledge
 
