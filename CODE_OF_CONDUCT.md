@@ -1,6 +1,6 @@
-# Contributor Covenant Code of Conduct
+# Welcome ! Here Is Contributor Covenant Code of Conduct
 
-## <i>Our Pledge</i>
+## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
